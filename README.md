@@ -1,2 +1,9 @@
-# PlaneWar_java_exercise
-打飞机小游戏 Jvav版
+# 打飞机小游戏 Jvav版
+
+
+输入start启动游戏
+
+
+输入debug启动调试模式。调试模式修改的内容重启游戏即失效。
+
+不输入start也不输入debug则进入恶臭模式（恼
